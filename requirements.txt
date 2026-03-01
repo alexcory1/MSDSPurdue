@@ -39,3 +39,4 @@ tornado==6.5.4
 traitlets==5.14.3
 tzdata==2025.3
 wcwidth==0.2.14
+stemgraphic==0.9.1
